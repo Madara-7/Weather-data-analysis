@@ -1,4 +1,4 @@
-Weather Data Analysis and Cleaning
+"Data Analysis and Cleaning for Weather"
 This Python script performs analysis and cleaning on weather data for two specific locations, Adelaide and Gold Coast, sourced from the "weatherAUS.csv" dataset. The code uses various data visualization techniques and data cleaning procedures to preprocess the data for further analysis.
 
 Table of Contents
